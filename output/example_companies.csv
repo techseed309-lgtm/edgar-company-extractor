@@ -1,0 +1,15 @@
+﻿CIK,Company Name,Ticker,Exchange,SIC Code,Industry,Phone,Street,City,State,ZIP,State of Inc.,FY End,Filings Found,Missing Fields,EDGAR Profile
+320193,Apple Inc.,AAPL,Nasdaq,3571,Electronic Computers,(408) 996-1010,ONE APPLE PARK WAY,CUPERTINO,CA,95014,CA,0926,25,,https://www.sec.gov/edgar/browse/?CIK=0000320193
+789019,MICROSOFT CORP,MSFT,Nasdaq,7372,Services-Prepackaged Software,(425) 882-8080,ONE MICROSOFT WAY,REDMOND,WA,98052-6399,WA,0630,25,,https://www.sec.gov/edgar/browse/?CIK=0000789019
+1045810,NVIDIA CORP,NVDA,Nasdaq,3674,Semiconductors & Related Devices,(408) 486-2000,2788 SAN TOMAS EXPRESSWAY,SANTA CLARA,CA,95051,DE,0131,25,,https://www.sec.gov/edgar/browse/?CIK=0001045810
+1318605,"Tesla, Inc.",TSLA,Nasdaq,3711,Motor Vehicles & Passenger Car Bodies,(512) 516-8177,1 TESLA ROAD,AUSTIN,TX,78725,TX,1231,25,,https://www.sec.gov/edgar/browse/?CIK=0001318605
+19617,JPMORGAN CHASE & CO,JPM,NYSE,6021,National Commercial Banks,(212) 270-6000,270 PARK AVENUE,NEW YORK,NY,10017,DE,1231,25,,https://www.sec.gov/edgar/browse/?CIK=0000019617
+200406,JOHNSON & JOHNSON,JNJ,NYSE,2834,Pharmaceutical Preparations,(732) 524-2455,ONE JOHNSON & JOHNSON PLZ,NEW BRUNSWICK,NJ,08933,NJ,0103,25,,https://www.sec.gov/edgar/browse/?CIK=0000200406
+21344,COCA COLA CO,KO,NYSE,2080,Beverages,(404) 676-2121,ONE COCA COLA PLAZA,ATLANTA,GA,30313,DE,1231,25,,https://www.sec.gov/edgar/browse/?CIK=0000021344
+78003,PFIZER INC,PFE,NYSE,2834,Pharmaceutical Preparations,(212) 733-2323,66 HUDSON BOULEVARD EAST,NEW YORK,NY,10001-2192,DE,1231,25,,https://www.sec.gov/edgar/browse/?CIK=0000078003
+104169,Walmart Inc.,WMT,Nasdaq,5331,Retail-Variety Stores,(501) 273-4000,1 CUSTOMER DRIVE,BENTONVILLE,AR,72716,DE,0131,25,,https://www.sec.gov/edgar/browse/?CIK=0000104169
+2115436,ExxonMobil Holdings Corp,XOM,NYSE,2911,Petroleum Refining,(972) 940-6000,22777 SPRINGWOODS VILLAGE PARKWAY,SPRING,TX,77389,TX,1231,4,,https://www.sec.gov/edgar/browse/?CIK=0002115436
+27904,"DELTA AIR LINES, INC.",DAL,NYSE,4512,"Air Transportation, Scheduled",(404) 715-2191,HARTSFIELD-JACKSON ATLANTA INTL AIRPORT,ATLANTA,GA,30354-1989,DE,1231,25,,https://www.sec.gov/edgar/browse/?CIK=0000027904
+909832,COSTCO WHOLESALE CORP /NEW,COST,Nasdaq,5331,Retail-Variety Stores,(425) 313-8100,999 LAKE DRIVE,ISSAQUAH,WA,98027-,WA,0830,25,,https://www.sec.gov/edgar/browse/?CIK=0000909832
+37996,FORD MOTOR CO,F,NYSE,3711,Motor Vehicles & Passenger Car Bodies,(313) 322-3000,ONE AMERICAN ROAD,DEARBORN,MI,48126,DE,1231,25,,https://www.sec.gov/edgar/browse/?CIK=0000037996
+731766,UNITEDHEALTH GROUP INC,UNH,NYSE,6324,Hospital & Medical Service Plans,(800) 328-5979,1 HEALTH DRIVE,EDEN PRAIRIE,MN,55344,DE,1231,25,,https://www.sec.gov/edgar/browse/?CIK=0000731766
