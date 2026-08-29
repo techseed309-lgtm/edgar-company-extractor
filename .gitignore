@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.cache/
+output/*.xlsx
+output/*.csv
+!output/example_*
