@@ -1,5 +1,7 @@
 # EDGAR Company Directory & Filings Extractor
 
+![Overview](docs/overview.png)
+
 Builds a clean, client-ready Excel directory of public companies — contact
 details, industry classification and recent SEC filings — from a list of
 tickers or company names.
@@ -166,3 +168,10 @@ edgar-company-extractor/
 ## Requirements
 
 Python 3.9+ · `requests` · `pandas` · `openpyxl`
+
+## Screenshots
+![Companies sheet](docs/companies.png)
+
+![Filings sheet](docs/filings.png)
+
+![Summary and run log](docs/summary_log.png)
